@@ -1,2 +1,2 @@
 # abhinavcarbazar
-authore-dhaani barmna
+authore-dhaani barman
